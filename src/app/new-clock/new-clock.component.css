@@ -1,0 +1,15 @@
+
+.Clock{
+  display: inline-block;
+  background-color: pink;
+  color: red;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 7px solid blue;
+  margin: 50px;
+  text-align: center;
+}
+h1{
+  color: orangered
+}
